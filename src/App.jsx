@@ -169,6 +169,7 @@ const App = () => {
                   border: "2px solid gray",
                   borderRadius: "10px",
                   padding: "7px",
+                  cursor:'pointer'
                 }}
               >
                 <div
